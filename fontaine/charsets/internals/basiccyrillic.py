@@ -6,8 +6,8 @@ class Charset:
     glyphs  = range(0x0400, 0x045f)
     glyphs += [0x0490,
                0x0491,
-               0x04B0,
-               0x04B1,
+               0x20B4,
+               0x20BD,
                0x2116,
               ]
 
